@@ -10,3 +10,7 @@ points: 1 point is scored each time the bird flies in between a pair of pipes.
 
 Menu: upon launching the game a menu will appear with a start button. after dying a button will appear to play again.
 
+
+
+https://github.com/user-attachments/assets/33267345-e321-4cc0-ac90-fecdede77b0d
+
